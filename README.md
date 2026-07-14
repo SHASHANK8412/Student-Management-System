@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Fee Management System
 
 A production-oriented student fee management platform for schools, colleges, and tuition centers. The application is split into a FastAPI backend, a React 19 + Vite frontend, and PostgreSQL persistence.
@@ -62,3 +63,6 @@ Swagger UI is available at `/docs` when the backend is running. OpenAPI is gener
 - The codebase uses soft delete columns and timestamp audit fields on core models.
 - The backend seeds the four required roles on startup.
 - The frontend expects the backend API to be available under `/api/v1`.
+=======
+# Student-Management-System
+>>>>>>> a35808887168f78eca33d68f883495340401307e
